@@ -1,0 +1,16 @@
+[
+  {
+    "buyPrice": 150,
+    "life": 0,
+    "x": 2,
+    "y": 2,
+    "name": "Cat"
+  },
+  {
+    "buyPrice": 150,
+    "life": 0,
+    "x": 3,
+    "y": 3,
+    "name": "Cat"
+  }
+]

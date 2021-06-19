@@ -1,0 +1,159 @@
+5
+[
+  {
+    "coinsAtFirst": 100,
+    "max_egg": 5,
+    "max_feather": 2,
+    "max_milk": 1,
+    "max_egg_first_product": 4,
+    "max_feather_first_product": 3,
+    "max_milk_first_product": 2,
+    "max_egg_second_product": 3,
+    "max_feather_second_product": 3,
+    "max_milk_second_product": 2,
+    "max_mission_coins": 50,
+    "max_hen": 4,
+    "max_turkey": 4,
+    "max_buffalo": 3,
+    "wildAnimals": [
+      [
+        "Lion",
+        "10"
+      ],
+      [
+        "Lion",
+        "25"
+      ]
+    ],
+    "maxTime": 100,
+    "coinsForReward": 30
+  },
+  {
+    "coinsAtFirst": 150,
+    "max_egg": 6,
+    "max_feather": 3,
+    "max_milk": 2,
+    "max_egg_first_product": 5,
+    "max_feather_first_product": 4,
+    "max_milk_first_product": 3,
+    "max_egg_second_product": 4,
+    "max_feather_second_product": 4,
+    "max_milk_second_product": 3,
+    "max_mission_coins": 60,
+    "max_hen": 5,
+    "max_turkey": 5,
+    "max_buffalo": 4,
+    "wildAnimals": [
+      [
+        "Lion",
+        "12"
+      ],
+      [
+        "Lion",
+        "23"
+      ],
+      [
+        "Lion",
+        "35"
+      ]
+    ],
+    "maxTime": 120,
+    "coinsForReward": 50
+  },
+  {
+    "coinsAtFirst": 200,
+    "max_egg": 7,
+    "max_feather": 4,
+    "max_milk": 3,
+    "max_egg_first_product": 6,
+    "max_feather_first_product": 5,
+    "max_milk_first_product": 4,
+    "max_egg_second_product": 5,
+    "max_feather_second_product": 5,
+    "max_milk_second_product": 4,
+    "max_mission_coins": 70,
+    "max_hen": 6,
+    "max_turkey": 6,
+    "max_buffalo": 5,
+    "wildAnimals": [
+      [
+        "Lion",
+        "15"
+      ],
+      [
+        "Bear",
+        "24"
+      ],
+      [
+        "Lion",
+        "40"
+      ]
+    ],
+    "maxTime": 140,
+    "coinsForReward": 70
+  },
+  {
+    "coinsAtFirst": 250,
+    "max_egg": 8,
+    "max_feather": 5,
+    "max_milk": 4,
+    "max_egg_first_product": 7,
+    "max_feather_first_product": 6,
+    "max_milk_first_product": 5,
+    "max_egg_second_product": 6,
+    "max_feather_second_product": 6,
+    "max_milk_second_product": 5,
+    "max_mission_coins": 80,
+    "max_hen": 7,
+    "max_turkey": 7,
+    "max_buffalo": 6,
+    "wildAnimals": [
+      [
+        "Lion",
+        "15"
+      ],
+      [
+        "Bear",
+        "30"
+      ],
+      [
+        "Tiger",
+        "50"
+      ]
+    ],
+    "maxTime": 160,
+    "coinsForReward": 90
+  },
+  {
+    "coinsAtFirst": 300,
+    "max_egg": 9,
+    "max_feather": 6,
+    "max_milk": 5,
+    "max_egg_first_product": 8,
+    "max_feather_first_product": 7,
+    "max_milk_first_product": 6,
+    "max_egg_second_product": 7,
+    "max_feather_second_product": 7,
+    "max_milk_second_product": 6,
+    "max_mission_coins": 90,
+    "max_hen": 8,
+    "max_turkey": 8,
+    "max_buffalo": 7,
+    "wildAnimals": [
+      [
+        "Bear",
+        "15"
+      ],
+      [
+        "Tiger",
+        "35"
+      ],
+      [
+        "Tiger",
+        "50"
+      ]
+    ],
+    "maxTime": 180,
+    "coinsForReward": 110
+  }
+]

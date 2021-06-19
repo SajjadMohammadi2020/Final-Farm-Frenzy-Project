@@ -1,0 +1,35 @@
+[
+  {
+    "sellPrice": 80,
+    "buyPrice": 100,
+    "time": 0,
+    "productTime": 2,
+    "product": "egg",
+    "life": 100,
+    "x": 3,
+    "y": 3,
+    "name": "Hen"
+  },
+  {
+    "sellPrice": 240,
+    "buyPrice": 300,
+    "time": 0,
+    "productTime": 5,
+    "product": "milk",
+    "life": 100,
+    "x": 5,
+    "y": 6,
+    "name": "Buffalo"
+  },
+  {
+    "sellPrice": 160,
+    "buyPrice": 200,
+    "time": 0,
+    "productTime": 3,
+    "product": "feather",
+    "life": 100,
+    "x": 5,
+    "y": 1,
+    "name": "Turkey"
+  }
+]
